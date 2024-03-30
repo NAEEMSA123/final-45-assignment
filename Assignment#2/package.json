@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.2"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17",
+    "lodash": "^4.17.21"
+  }
+}
